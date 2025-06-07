@@ -64,6 +64,6 @@ This tool was primarily intended for **healthcare analytics teams**, **clinical 
 ## 🧰 Tools Used
 
 - Power BI Desktop
-- SQL Server
+- SQL Server for data tables
 - Excel-based data export
 - DAX/Power Query for MRN classification and time-based logic
