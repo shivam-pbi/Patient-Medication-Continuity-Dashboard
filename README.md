@@ -1,4 +1,4 @@
-# 💊 Patient Medication Continuity Dashboard – Power BI
+# 💊 Patient Medication Continuity Dashboard – Power BI / SQL / Excel
 
 This dashboard visualizes MRN (Medical Record Number) activity trends across time and geography, helping healthcare teams understand patient medication continuity and identify high-risk drop-off zones.
 
